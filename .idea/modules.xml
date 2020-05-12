@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-QuickXposed.iml" filepath="$PROJECT_DIR$/Android-QuickXposed.iml" group="QuickXposed" />
+      <module fileurl="file://$PROJECT_DIR$/QuickXposed.iml" filepath="$PROJECT_DIR$/QuickXposed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_xposed/QuickXposed-app_xposed.iml" filepath="$PROJECT_DIR$/app_xposed/QuickXposed-app_xposed.iml" group="QuickXposed/app_xposed" />
+      <module fileurl="file://$PROJECT_DIR$/app_xposed/app_xposed.iml" filepath="$PROJECT_DIR$/app_xposed/app_xposed.iml" />
+    </modules>
+  </component>
+</project>
